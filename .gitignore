@@ -1,0 +1,12 @@
+# Игнорируем ВСЁ
+*
+
+# Разрешаем README
+!README.md
+
+# Разрешаем папку assets (скриншоты для GitHub)
+!assets/
+!assets/**
+
+# Разрешаем .gitignore
+!.gitignore
