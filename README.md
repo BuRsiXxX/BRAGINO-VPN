@@ -1,12 +1,14 @@
 <div align="center">
 
-# 🔒 BRAGINO VPN
+<img src="https://github.com/user-attachments/assets/027d4c8d-f6f6-4780-b103-4b1551849449" alt="BRAGINO VPN Logo" width="150" />
+  
+  # BRAGINO $\color{#52d1ed}{\textsf{VPN}}$
 
 ### VPN ТОЛЬКО ДЛЯ ЧЁТКИХ, ДЛЯ СВОИХ...
 
 ![Windows](https://img.shields.io/badge/Платформа-Windows%2010%2F11-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Version](https://img.shields.io/badge/Версия-0.4.0-22d3ee?style=for-the-badge)
-![License](https://img.shields.io/badge/Лицензия-Проприетарная-red?style=for-the-badge)
+![Version](https://img.shields.io/badge/Версия-0.4-22d3ee?style=for-the-badge)
+![License](https://img.shields.io/badge/Лицензия-Vibecoding-red?style=for-the-badge)
 
 ---
 
@@ -72,22 +74,26 @@
 ---
 
 ## 📸 Скриншоты
+<img width="460" height="838" alt="image" src="https://github.com/user-attachments/assets/64bdf6c8-89fe-429a-8dcc-e56f514e1a38" />
+<img width="460" height="838" alt="image" src="https://github.com/user-attachments/assets/95f71b58-427f-404c-bf6c-69773bd4e2a2" />
+<img width="460" height="838" alt="image" src="https://github.com/user-attachments/assets/fcef59f4-2747-48fa-aee5-022d8d87c003" />
+<img width="460" height="838" alt="image" src="https://github.com/user-attachments/assets/f65d2b4f-ad55-4b80-8591-a6844696211a" />
+<img width="460" height="838" alt="image" src="https://github.com/user-attachments/assets/29216069-8537-49e6-b9a7-9593b846c336" />
+<img width="460" height="838" alt="image" src="https://github.com/user-attachments/assets/e7d6b1d9-54ab-4df0-82db-ef4682407967" />
 
-> *Скриншоты интерфейса будут добавлены позже в папку `/assets/`*
+
 
 ---
 
 ## ⚠️ Важно
-
-- Приложение является **закрытым программным обеспечением**
-- Исходный код **не предоставляется**
 - Для корректной работы требуется запуск **от имени Администратора**
+
 - Требуется действующий VLESS-ключ или подписка
 
 ---
 
 <div align="center">
 
-**© 2026 BRAGINO VPN** • Версия 0.4.0
+**© 2026 BRAGINO VPN** • Версия 0.4
 
 </div>
