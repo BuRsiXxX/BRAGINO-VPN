@@ -71,9 +71,15 @@
 ---
 
 ## 📸 Скриншоты
-<img width="460" height="838" alt="Основной экран" src="https://github.com/user-attachments/assets/64bdf6c8-89fe-429a-8dcc-e56f514e1a38" />
-<img width="460" height="838" alt="Настройки" src="https://github.com/user-attachments/assets/95f71b58-427f-404c-bf6c-69773bd4e2a2" />
-<img width="460" height="838" alt="Туннелирование" src="https://github.com/user-attachments/assets/fcef59f4-2747-48fa-aee5-022d8d87c003" />
+<img width="460" height="803" alt="image" src="https://github.com/user-attachments/assets/a396825d-9ca2-4923-87ea-3d4245eafbfa" />
+
+<img width="460" height="803" alt="image" src="https://github.com/user-attachments/assets/098744da-2a9c-41af-85c9-d0fc02709506" />
+
+<img width="460" height="803" alt="image" src="https://github.com/user-attachments/assets/e8aafb24-2075-4104-950d-6bed2288603d" />
+
+<img width="460" height="803" alt="image" src="https://github.com/user-attachments/assets/46566e53-a438-471f-abe8-60a943976c12" />
+
+<img width="460" height="803" alt="image" src="https://github.com/user-attachments/assets/9d66d074-ba29-478c-9075-d0e463d091ce" />
 
 ---
 
